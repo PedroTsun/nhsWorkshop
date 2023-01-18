@@ -1,5 +1,15 @@
 # Workshop on Web Design
 
+Web pages were invented to facilitate the sharing of information. They
+are also great for preserving information for both the author and other people.
+Yes, you can use webpages like facebook and instagram  to preserve information,
+but you lose control of how you like to organize your information. There are
+also other website hosting service like google site, but they place limits
+on what you can do. Replit is one of the ways to make a website easily. It is
+also easy for beginners to learn. If you become more interested in web design 
+and web development, you may want to try github. The author would be glad to
+share with you on how to make a website with github if you are interested.
+
 ## Setup
 * open a web browser and go to [replit](https://replit.com/)
 * Log in (with your google account)
