@@ -29,6 +29,6 @@
 ```
 
 * Try image element. Use img tag
-```html <img src="granny-smith.jpg" alt="granny smith apple"> ```
+```html <img src="granny-smith.jpg" alt="granny smith apple"> ``` <br>
 ```html <img src="https://shop2.arborday.org/data/default/images/catalog/600/Turnkey/1/granny-smith-2-2576.jpg" alt="granny smith"> ```
 * Examine <br>, <hr>
