@@ -7,7 +7,7 @@
 * Search and select html/css/js
 
 ## Deploy some HTML elements
-* In your html file. go to between the body tags: ` <body> </body> `
+* In your html file, go to between the body tags: ` <body> </body> `
 * Try heading element. Use h1 heading tags: ` <h1> My First Real Webpage </h1> `
 * Try paragraph element. Use p tags:  ` <p> a paragraph or whatever here </p> `
 * Try link element. Use anchor tag: ` <a href="https://www.google.com/">Google</a> `
@@ -32,3 +32,9 @@
 ` <img src="granny-smith.jpg" alt="granny smith apple"> ` <br>
 ` <img src="https://shop2.arborday.org/data/default/images/catalog/600/Turnkey/1/granny-smith-2-2576.jpg" alt="granny smith"> `
 * Examine `<br>, <hr>`
+* Look at windows hotkey: select contiguous elements or a dispersed group of elements
+* Use win-shift-s combination to snip images. Navigate some resources on school webpage.
+
+## Useful Resources
+* [w3schools](https://www.w3schools.com/)
+* [khan academy web design](https://www.khanacademy.org/computing/computer-programming/html-css)
