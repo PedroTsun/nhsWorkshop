@@ -42,7 +42,7 @@ share with you on how to make a website with github if you are interested.
 ` <img src="granny-smith.jpg" alt="granny smith apple"> ` <br>
 ` <img src="https://shop2.arborday.org/data/default/images/catalog/600/Turnkey/1/granny-smith-2-2576.jpg" alt="granny smith"> `
 * Examine `<br>, <hr>`
-* Look at windows hotkey: select contiguous elements or a dispersed group of elements
+* Look at windows hotkey: select contiguous elements or a group of dispersed elements
 * Use win-shift-s combination to snip images. Navigate some resources on school webpage.
 
 ## Useful Resources
