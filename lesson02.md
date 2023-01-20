@@ -76,7 +76,7 @@ for your webpage.
 * Have a list of links
 * Have an image link in addition to a text link
 * Have a class that sets text font or text size to selected items on your webpages
-* $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+* $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
 
 ## Useful Resources
 * [w3schools](https://www.w3schools.com/)
