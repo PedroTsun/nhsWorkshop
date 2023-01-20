@@ -1,10 +1,10 @@
 # Adding Styling to Webpages
 
 After composing a html file with your important content ready to be published on the world wide web,
-you may want to make your weboage look good. This would mean you would add styling to make
+you may want to make your weboage look good. This would mean adding styling to make
 your webpage look presentable. In the following example, you will get to
-know more about styling and in particular why you want to have CSS (cascading style sheet)
-for your webpage.
+know more about styling and in particular you will see why we want to have CSS (cascading style sheet)
+on webpages.
 
 ## Preparing to add styling
 
