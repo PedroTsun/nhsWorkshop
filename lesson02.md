@@ -81,4 +81,5 @@ on webpages.
 ## Useful Resources
 * [w3schools](https://www.w3schools.com/)
 * [khan academy web design](https://www.khanacademy.org/computing/computer-programming/html-css)
-* [A Guide to Markdown File](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
+* [Learning web design : a beginner's guide to HTML, CSS, Javascript, and web graphics](https://www.barnesandnoble.com/w/learning-web-design-jennifer-niederst-robbins/1112357082?ean=9781491960202)
+[]: # '[A Guide to Markdown File](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)'
