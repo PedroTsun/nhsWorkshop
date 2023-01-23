@@ -48,3 +48,4 @@ share with you on how to make a website with github if you are interested.
 ## Useful Resources
 * [w3schools](https://www.w3schools.com/)
 * [khan academy web design](https://www.khanacademy.org/computing/computer-programming/html-css)
+* [HTML and CSS: Design and Build Websites](https://www.barnesandnoble.com/w/html-and-css-jon-duckett/1111446793?ean=9781118008188)
