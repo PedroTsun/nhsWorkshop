@@ -59,7 +59,7 @@ on webpages.
 </ul>
 ```
 * However, you will find that the new list has no color. You need one more thing.
-* Between the `<head> </head>`, add the following to specify class attributes:
+* Between the `<head> </head>`, add the following to specify a value for the CSS property of a class:
 ```html
   <style>
     .mathBk {
