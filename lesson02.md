@@ -75,7 +75,7 @@ on webpages.
 ## Some Useful Things to have on Your Webpage
 * Have a list of links
 * Have an image link in addition to a text link
-* Have a class that sets text font or text size to selected items on your webpages
+* Have a class that sets text font or text size of selected items on your webpages
 
 
 ## Useful Resources
