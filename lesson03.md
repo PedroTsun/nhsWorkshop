@@ -51,10 +51,10 @@ the gold foil experiment?<br>
 
 
 ## Javascript: DOM events
-* The javascript (JS) code below may look like gibberish, but there are just 3 steps to it.
+* The javascript (JS) code below may look like gibberish, but there are just three steps to it.
 * First, select the html item that you want to use. In this case, choose the html option select tag.
 * Second, specify the event that will trigger a reaction: A change in the select option is chosen as an event.
-* Third, spell out what to do once the event has occurred. In this case, once a different option is selected, a function called choiceSelected() will be invoked to checked if the answer is correct and to give feedback on the html page. 
+* Third, spell out what to do once the event has occurred. In this case, once a different option is selected, a function called choiceSelected() will be invoked to check if the answer is correct and to give feedback on the html page. 
 ```html
 
   <script>
