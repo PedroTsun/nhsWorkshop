@@ -21,7 +21,7 @@ students to do well on exams.
 * Create a new replit project by clicking on the blue button near the top left of the page
 * Search and select html/css/js
 * In your html file, go to between the body tags: ` <body> </body> `
-* Type the html code in the body or copy the following marked-up text into the body.
+* Type the html content below in the body or copy the following marked-up text into the body.
 ```html
   <div style="padding-left: 1em; position: relative;">
     <span id='y2023janQ1fb'>&nbsp;&nbsp;&nbsp;</span>
@@ -52,7 +52,7 @@ the gold foil experiment?<br>
 
 ## Javascript: DOM events
 * The javascript (JS) code below may look like gibberish, but there are just three steps to it.
-* First, select the html item that you want to use. In this case, choose the html option select tag.
+* First, select the html element that you want to use. In this case, choose the html option select tag.
 * Second, specify the event that will trigger a reaction: A change in the select option is chosen as an event.
 * Third, spell out what to do once the event has occurred. In this case, once a different option is selected, a function called choiceSelected() will be invoked to check if the answer is correct and to give feedback on the html page. 
 ```html
@@ -87,7 +87,7 @@ the gold foil experiment?<br>
 ```
 
 * This quick tutorial is not meant to teach you javascript in details. It gives you an
-example of how JS can be useful. To learn more, you can learn from some useful khan academy videos on JS. 
+example of how JS can be useful. To learn more, you can learn by watching some useful khan academy videos on JS. 
 
 ## Some Suggestions for JS on Your Webpage
 * Have a multiple choice that gives hints
