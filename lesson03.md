@@ -21,7 +21,7 @@ students to do well on exams.
 * Create a new replit project by clicking on the blue button near the top left of the page
 * Search and select html/css/js
 * In your html file, go to between the body tags: ` <body> </body> `
-* Type the html code in the body or copy the following list into the body.
+* Type the html code in the body or copy the following marked-up text into the body.
 ```html
   <div style="padding-left: 1em; position: relative;">
     <span id='y2023janQ1fb'>&nbsp;&nbsp;&nbsp;</span>
